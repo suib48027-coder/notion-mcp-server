@@ -1,4 +1,5 @@
 # syntax=docker/dockerfile:1
+# Cache bust: 2026-03-11-v2
 
 # Use Node.js LTS as the base image
 FROM node:20-slim AS builder
