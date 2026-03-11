@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1
+# syntax=docker/dockerfile:1.4
 # Cache bust: 2026-03-11-v2
 
 # Use Node.js LTS as the base image
